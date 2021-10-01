@@ -1,0 +1,34 @@
+/* Oyuncak Dükkanı */
+
+h1 {
+
+    text-align: center;
+    margin-top: 100px;
+    font-size: 60px;
+    color:rgb(83, 165, 127);
+}
+
+a {
+
+    font-size: 25px;
+    color: white;
+}
+
+p,h2 {
+    text-align: center;
+}
+h2,h3 {
+    color:rgb(83, 165, 127) ;
+}
+p,li {
+
+    font-size: 20px;
+    color: rgb(4, 4, 104);
+    font-weight: bold;
+
+}
+
+button{
+
+    background-color:rgb(83, 165, 127);
+}
